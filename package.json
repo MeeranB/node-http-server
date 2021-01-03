@@ -1,0 +1,23 @@
+{
+  "name": "node-http-server",
+  "version": "1.0.0",
+  "description": "An introduction to Node HTTP servers",
+  "main": "index.js",
+  "scripts": {
+    "start": "node workshop/server.js",
+    "dev": "nodemon workshop/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeeranB/node-http-server.git"
+  },
+  "author": "\"Oliver Phillips <hello@oliverjam.es> (https://oliverjam.es/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MeeranB/node-http-server/issues"
+  },
+  "homepage": "https://github.com/MeeranB/node-http-server#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
